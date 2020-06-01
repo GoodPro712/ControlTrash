@@ -1,0 +1,3 @@
+displayName = Use Control to Trash (From 1.4)
+author = GoodPro712
+version = 0.1
