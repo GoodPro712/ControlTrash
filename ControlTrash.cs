@@ -107,7 +107,7 @@ namespace ControlTrash
 		//I method swapped because I could not get IL working
 		private void On_LeftClick(On.Terraria.UI.ItemSlot.orig_LeftClick_ItemArray_int_int orig, Item[] inv, int context, int slot)
 		{
-			Main.NewText(Main.cursorOverride);
+			//Main.NewText(Main.cursorOverride);
 			if (!(bool)overrideLeftClick.Invoke(null, new object[] { inv, context, slot }))
 			{
 				inv[slot].newAndShiny = false;

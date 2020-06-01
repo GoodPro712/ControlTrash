@@ -1,4 +1,4 @@
 displayName = Use Control to Quick Trash (From 1.4)
 author = GoodPro712
-version = 1.0
+version = 1.1
 homepage = https://forums.terraria.org/index.php?threads/use-control-to-quick-trash.92911/

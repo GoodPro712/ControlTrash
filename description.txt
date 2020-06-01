@@ -1,1 +1,9 @@
 Use Control to Quick Trash changes the quick trash button to Control rather than Shift. You would know if you were playing 1.4 Terraria then went back to modded and kept trying to quick trash with control. :p
+
+Version History:
+
+v1.1
+- Removed debugging code that I left behind
+
+v1.0
+- Initial release
